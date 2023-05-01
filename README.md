@@ -9,5 +9,6 @@ Un blog increible para el curso de Git y Github de Plazi
 * Trucos muy OMG
 * Creado por el increible Juan Pablo Holguín
 * Incluye ejemplo en Windows, Linux y Mac
+* Disponible para todas las edades
 
 **Este es un readme.md de chiste o ejemplo**
