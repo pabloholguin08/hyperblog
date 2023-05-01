@@ -8,6 +8,6 @@ Un blog increible para el curso de Git y Github de Plazi
 * El verdadero flujo de trabajo de GitHub
 * Trucos muy OMG
 * Creado por el increible Juan Pablo Holguín
-
+* Incluye ejemplo en Windows, Linux y Mac
 
 **Este es un readme.md de chiste o ejemplo**
