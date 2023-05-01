@@ -7,6 +7,7 @@ Un blog increible para el curso de Git y Github de Plazi
 * Todos los comandos de git
 * El verdadero flujo de trabajo de GitHub
 * Trucos muy OMG
+* Creado por el increible Juan Pablo Holguín
 
 
 **Este es un readme.md de chiste o ejemplo**
